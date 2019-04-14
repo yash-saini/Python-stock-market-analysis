@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec  8 16:10:11 2018
 
-@author: YASH SAINI
-"""
 """ This project analyzes the stocks of three different car companies 
     Tesla,Ford and General Motors by plotting different graphs, calculating
     returns and cumulative returns and plotting them. 
